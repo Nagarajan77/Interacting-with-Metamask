@@ -1,0 +1,8 @@
+{
+  "name": "interacting-with-metamask",
+  "version": "1.0.0",
+  "description": "Understaning how to control Metamash from Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
